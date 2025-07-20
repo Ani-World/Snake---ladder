@@ -19,9 +19,9 @@ A fun and interactive **Snake and Ladder** game built using Python's `tkinter` l
 
 ## 📸 Screenshot
 
-![Snake&LAdder](img1.png)
-![Snake&LAdder](img2.png)
-![Snake&LAdder](img2.png)
+![Snake&LAdder](assets/img1.png)
+![Snake&LAdder](assets/img2.png)
+![Snake&LAdder](assets/img2.png)
 ---
 
 ## 🛠️ Requirements

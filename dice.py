@@ -8,12 +8,12 @@ class Die:
         self.frame = Frame(parent)
 
         self.dice_images = [
-            PhotoImage(file="images/die1.png"),
-            PhotoImage(file="images/die2.png"),
-            PhotoImage(file="images/die3.png"),
-            PhotoImage(file="images/die4.png"),
-            PhotoImage(file="images/die5.png"),
-            PhotoImage(file="images/die6.png"),
+            PhotoImage(file="assets/images/die1.png"),
+            PhotoImage(file="assets/images/die2.png"),
+            PhotoImage(file="assets/images/die3.png"),
+            PhotoImage(file="assets/images/die4.png"),
+            PhotoImage(file="assets/images/die5.png"),
+            PhotoImage(file="assets/images/die6.png"),
         ]
 
         self.label = Label(self.frame, text="Roll the Die", font=("Arial", 14))
