@@ -1,0 +1,28 @@
+
+---
+
+## ✅ `.gitignore`
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# MacOS and Linux
+.DS_Store
+Thumbs.db
+
+# Python environment
+env/
+*.env
+
+# Compiled tkinter image caches or logs
+*.log
+*.png
